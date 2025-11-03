@@ -1,0 +1,9 @@
+/.venv
+/conversation_history.db
+/example.mjs
+/IMG_2519.HEIC
+/node_modules
+/OPENAI_API_KEY.zshrc
+/package-lock.json
+/package.json
+/Source.gv
